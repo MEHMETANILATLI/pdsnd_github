@@ -1,3 +1,5 @@
+# This project is developed by M. Anýl ATLI
+# This project is deveoped in Istanbul
 import time
 import pandas as pd
 import numpy as np
